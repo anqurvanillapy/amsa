@@ -1,3 +1,5 @@
+# dist/ is basically the contents and metadata for those hosted on GitHub Pages.
+dist/
 
 # Created by https://www.gitignore.io/api/node
 
