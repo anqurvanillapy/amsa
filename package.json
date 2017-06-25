@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/anqurvanillapy/amsa/issues"
   },
-  "homepage": "https://github.com/anqurvanillapy/amsa#readme"
+  "homepage": "https://github.com/anqurvanillapy/amsa#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
 }
